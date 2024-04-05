@@ -15,7 +15,6 @@ const About = () => {
                 <div className="about-right">
                     <div className="about-param">
                         <p>Passionate and dedicated software engineer with a relentless enthusiasm for turning ideas into reality through code. I thrive on challenges and am committed to delivering high-quality solutions that meet both user needs and business objectives.</p>
-                        <p> With a strong foundation in software development principles and a keen eye for detail, I excel in designing, implementing, and maintaining robust and scalable applications. I am constantly learning and adapting to new technologies to stay at the forefront of the ever-evolving tech landscape. Lets build something amazing together.</p>
                     </div>
                     <div className="about-skills">
                         <div className="about-skill">
