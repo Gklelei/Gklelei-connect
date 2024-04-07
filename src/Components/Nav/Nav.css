@@ -31,6 +31,9 @@
 .nav-menu-close {
   display: none;
 }
+.nav-menu-open {
+  display: none;
+}
 
 /* ===== max-width 768 px ===== */
 @media screen and (max-width: 768px) {
