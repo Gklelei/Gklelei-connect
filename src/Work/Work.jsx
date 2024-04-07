@@ -6,7 +6,7 @@ import arrow_icon from '../assets/arrow_icon.svg';
 
 const Work = () => {
     return (
-        <div className="work">
+        <div className="work" id='work'>
             <div className="work-tittle">
                 <h1>My Latest Work</h1>
                 <img src={theme} alt="theme-pattern" />

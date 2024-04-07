@@ -3,7 +3,7 @@ import about_img from '../../assets/gklelei.jpg'
 import theme from '../../assets/theme_pattern.svg'
 const About = () => {
     return (
-        <div className="about">
+        <div className="about" id='about'>
             <div className="about-title">
                 <h1>About Me</h1>
                 <img src={theme} alt="theme-img" />
